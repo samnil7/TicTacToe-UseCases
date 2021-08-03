@@ -8,7 +8,7 @@
 
 # In[19]:
 
-
+import os
 import time
 
 print("Play Tic tac Toe")
