@@ -29,7 +29,7 @@ while(Game == Running):
     if(CheckPosition(choice)):    
         TTT[choice] = Mark    
         player+=1    
-        CheckWin()    
+            
     
 os.system('cls')
 
