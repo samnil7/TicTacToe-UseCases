@@ -6,7 +6,7 @@
 # check who plays first.
 
 # In[1]:
-
+import os
 
 print("Play Tic tac Toe")
     
