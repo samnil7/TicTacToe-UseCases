@@ -6,7 +6,7 @@
 # check who plays first.
 
 # In[1]:
-
+import os
 
 print("Play Tic tac Toe")
     
@@ -29,7 +29,7 @@ while(Game == Running):
     if(CheckPosition(choice)):    
         TTT[choice] = Mark    
         player+=1    
-        CheckWin()    
+          
     
 os.system('cls')
 
